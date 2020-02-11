@@ -13,7 +13,7 @@ cymem==1.31.2
 cytoolz==0.8.2
 daphne==2.2.0
 dill==0.2.7.1
-Django==2.0.6
+Django==2.2.10
 en-core-web-sm==2.0.0
 falcon==1.4.1
 hyperlink==18.0.0
